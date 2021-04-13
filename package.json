@@ -30,12 +30,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kryptokinght/react-extension-boilerplate.git"
+    "url": "https://github.com/insanicly/jira-opsgenie-links"
   },
-  "author": "Minanshu Singh <minanshu.1998@gmail.com>",
+  "author": "Alper Saglam <alprsglm@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kryptokinght/react-extension-boilerplate/issues"
+    "url": "https://github.com/insanicly/jira-opsgenie-links"
   },
   "dependencies": {
     "@babel/core": "^7.2.2",
